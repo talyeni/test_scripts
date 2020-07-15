@@ -1,9 +1,9 @@
 {
 "budget": {
     "timings": {
-      "firstPaint": 3000,
-      "pageLoadTime": 5000,
-      "fullyLoaded": 7000
+      "firstPaint": 10000,
+      "pageLoadTime": 10000,
+      "fullyLoaded": 10000
     },
     "requests": {
       "total": 89,
