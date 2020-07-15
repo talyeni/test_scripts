@@ -9,7 +9,7 @@
       "total": 89,
       "html": 1,
       "javascript": 4,
-      "css": 4,
+      "css": 0,
       "image": 50,
       "font": 0,
       "httpErrors" : 0
@@ -18,7 +18,7 @@
       "total": 400000,
       "html": 20000,
       "javascript": 60000,
-      "css": 30000,
+      "css": 10000,
       "image": 200000,
       "font": 0
     },
