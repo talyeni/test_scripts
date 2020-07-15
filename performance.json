@@ -23,8 +23,8 @@
       "font": 0
     },
     "thirdParty": {
-      "transferSize": 0,
-      "requests": 0
+      "transferSize": 40000,
+      "requests": 2
     }
   }
 }
